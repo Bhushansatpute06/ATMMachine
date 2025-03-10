@@ -16,7 +16,7 @@ This is a simple **ATM Machine** project implemented in **Java**, designed to ha
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ATM-Machine-Java.git
+   git clone https://github.com/Bhushansatpute06/ATM-Machine-Java.git
    ```
 2. Open the project in **IntelliJ IDEA** or **VS Code**.
 3. Compile and run the program:
